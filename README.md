@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<!--
-**KDLOVERTECH/KDLOVERTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
 # Unlimited Filter Bot
 
 <p align="center">
@@ -106,23 +106,23 @@ Here are some ideas to get you started:
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Click here to see tutorial video](https://youtube.com/channel/UC95S0AuVudFfUKTwvcCD-kg)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [Group](https://telegram.dog/KDLOVERTECH) and [KD_MOVIEZ](https://telegram.dog/KD_MOVIEZ) for the video
 
-## Any bugs or errors or suggestions, report at [RJMALLU](https://t.me/RJMALLU)
+## Any bugs or errors or suggestions, report at [KDLOVERTECH](https://t.me/KDLOVERTECH)
 
 ## Installation
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/KDLOVERTECH)
 
 ### Deploy in your vps
 
 ```sh
 
-git clone https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ
+git clone https://github.com/KDLOVERTECH/KDLOVERTECH
 
 cd Unlimited-Filter-Bot
 
