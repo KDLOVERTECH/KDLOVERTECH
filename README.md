@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Unlimited Filter Bot
 
 <p align="center">
@@ -116,7 +102,7 @@ Thanks to [Group](https://telegram.dog/KDLOVERTECH) and [KD_MOVIEZ](https://tele
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/Unlimited_filter_bot )
 
 
 ### Deploy in your vps
