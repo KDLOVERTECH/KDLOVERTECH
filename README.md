@@ -102,7 +102,7 @@ Thanks to [Group](https://telegram.dog/KDLOVERTECH) and [KD_MOVIEZ](https://tele
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/Unlimited-filter-bot-RJ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/KDLOVERTECH)
 
 
 ### Deploy in your vps
